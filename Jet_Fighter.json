@@ -2,37 +2,37 @@
     {
         "name": "Rafale",
         "manufacturer": "Dassault Aviation",
-        "origin country": "France",
+        "origin_country": "France",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Rafale_-_RIAT_2009_%283751416421%29.jpg"
     },
     {
         "name": "Eurofighter Typhoon",
         "manufacturer": "Airbus, BAE Systems and Leonardo (under Eurofighter)",
-        "origin country": "Germany, UK, Italy and Spain",
+        "origin_country": "Germany, UK, Italy and Spain",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RAF_Eurofighter_EF-2000_Typhoon_F2_Lofting-1.jpg"
     },
     {
         "name": "F-16 Fighting Falcon",
         "manufacturer": "General Dynamics (1974-1993), Lockheed Martin (1993-present)",
-        "origin country": "USA",
+        "origin_country": "USA",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/F-16_June_2008.jpg"
     },
     {
         "name": "F/A-18E/F Super Hornet",
         "manufacturer": "McDonnell DOuglas (1995-1997), Boeing (1997-present)",
-        "origin country": "USA",
+        "origin_country": "USA",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/US_Navy_071203-N-8923M-074_An_F-A-18F_Super_Hornet%2C_from_the_Red_Rippers_of_Strike_Fighter_Squadron_%28VFA%29_11%2C_makes_a_sharp_turn_above_the_flight_deck_aboard_the_Nimitz-class_nuclear-powered_aircraft_carrier_USS_Harry_S._Truman.jpg"
     },
     {
         "name": "Su-27",
         "manufacturer": "Sukhoi",
-        "origin country": "USSR/Russia",
+        "origin_country": "USSR/Russia",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Sukhoi_Su-27SKM_at_MAKS-2005_airshow.jpg"
     },
     {
         "name": "Chengdu J-10",
         "manufacturer": "Chengdu Aircraft Industry Group",
-        "origin country": "China",
+        "origin_country": "China",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/J-10B_with_PL-10_and_PL-12.jpg"
     }
 ]
